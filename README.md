@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BreakNeckJim
+- 👋 Hi, I’m @Learn2Developer and my name is Jesse.
 - 👀 I’m interested in learning to code and making cool things!
 - 🌱 I’m currently learning data structures in Python!
 - 💞️ I’m looking to collaborate on anything Beginner Friendly!
